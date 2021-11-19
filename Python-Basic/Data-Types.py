@@ -9,7 +9,7 @@ set
 dict
 
 #Custom Data Types
-class
+# class
 
 #Specialized Data Types - Modules
 
